@@ -3,6 +3,7 @@ layout: post
 title:  "nec rigdum"
 date:   2016-08-25 18:25:43 +0200
 categories: jekyll update
+tags: layout design
 ---
 
  

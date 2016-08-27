@@ -4,6 +4,7 @@ title:  "nec rigdum"
 date:   2016-08-24 18:25:43 +0200
 categories: jekyll update
 featured: true
+tags: snippet
 ---
 
  

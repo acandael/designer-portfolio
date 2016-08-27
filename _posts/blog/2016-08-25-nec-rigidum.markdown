@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "nec rigdum"
-date:   2016-08-23 18:25:43 +0200
-categories: jekyll update
-featured: true
-tags: design
+date:   2016-08-25 18:25:43 +0200
+categories: blog
+tags: layout design
 ---
 
  
